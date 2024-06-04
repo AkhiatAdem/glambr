@@ -11,6 +11,7 @@ a{
 body{
     
     background-color: #B6B4B4;
+    width: 100vw;
 }
 header{
     display: flex;
