@@ -12,6 +12,7 @@ body{
     
     background-color: #B6B4B4;
     width: 100vw;
+    overflow-x: hidden;
 }
 header{
     display: flex;
@@ -647,6 +648,9 @@ footer h3{
   }
 
 @media only screen and (max-width: 800px)  {
+    header{
+        height: 8vh;
+    }
     main h1{
         font-size: 3rem;
     }
@@ -776,15 +780,16 @@ footer h3{
 
     .logo{
         position: absolute;
-        top: -5px;
+        top: -10px;
         left: 50%;
         transform: translateX(-50%);
-        width: 70px;
+        width: 60px;
         
     }
     .burgermenu{
         display: block;
-        width: 40px;
+        width: 30px;
+        top: 1.5vh;
     }
     header ul{
       display: flex;
@@ -810,13 +815,10 @@ footer h3{
         transform: translateX(-250%);
     }
     .contact-info div h3{
-        font-size: 1.3rem;
+        font-size: 1.1rem;
     }
     .contacts-info h2{
         font-size: 3rem;
-    }
-    .logo{
-        width: 70px;
     }
     .prices h3{
         text-align: left;
