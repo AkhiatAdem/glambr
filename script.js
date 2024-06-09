@@ -73,7 +73,7 @@ zoomcircle.forEach((zoom, index) => {
 
 
 const lesPrix = [`<p>1 480 DZD</p>
-<h3>COUPE POUR FEMMES</h3>
+<h3 class="prices-h3">COUPE POUR FEMMES</h3>
 <h4>Curl offre une longue liste de services de salon qui rendront les femmes fabuleuses. 
     Les femmes peuvent se faire plaisir avec juste une coupe de cheveux ou choisir parmi 
     l'un de nos services experts.
@@ -87,14 +87,14 @@ const lesPrix = [`<p>1 480 DZD</p>
 </h4>
 
 <p>1 800 DZD</p>
-<h3>COUPE POUR ENFANTS</h3>
+<h3 class="prices-h3">COUPE POUR ENFANTS</h3>
 <h4>Notre salon adapté aux enfants propose une variété de coupes de cheveux amusantes et 
     stylées pour les enfants. Nous garantissons une expérience confortable et agréable 
     pour les petits, rendant les coupes de cheveux faciles.
 </h4>
 
 <p>3 000 DZD</p>
-<h3>COULEUR COMPLÈTE</h3>
+<h3 class="prices-h3">COULEUR COMPLÈTE</h3>
 <h4>Rafraîchissez votre look avec un traitement de couleur complète. Nos spécialistes en 
     coloration offrent une gamme de teintes vibrantes et naturelles, assurant que vos 
     cheveux soient à leur meilleur avec une nouvelle couleur.
@@ -103,39 +103,39 @@ const lesPrix = [`<p>1 480 DZD</p>
 
 `,
 `<p>1 200 DZD</p>
-<h3>MANUCURE SIMPLE</h3>
+<h3 class="prices-h3">MANUCURE SIMPLE</h3>
 <h4>Offrez-vous une manucure simple pour des ongles impeccables. Notre équipe expérimentée prendra soin de vos ongles en les nettoyant, en les taillant et en les polissant pour un aspect soigné et professionnel.
 </h4>
 
 <p>1 800 DZD</p>
-<h3>MANUCURE ET POSE DE VERNIS</h3>
+<h3 class="prices-h3">MANUCURE ET POSE DE VERNIS</h3>
 <h4>Complétez votre manucure avec une pose de vernis de qualité. Choisissez parmi notre large gamme de couleurs et de finitions pour des ongles élégants et éclatants.
 </h4>
 
 <p>2 400 DZD</p>
-<h3>PÉDICURE COMPLÈTE</h3>
+<h3 class="prices-h3">PÉDICURE COMPLÈTE</h3>
 <h4>Prenez soin de vos pieds avec une pédicure complète. Nos spécialistes prendront soin de vos ongles, de vos cuticules et de vos callosités, vous laissant avec des pieds doux et lisses.
 </h4>
 
 
 `,
 `<p>1 500 DZD</p>
-<h3>EXTENSIONS DE CILS CLASSIQUES</h3>
+<h3 class="prices-h3">EXTENSIONS DE CILS CLASSIQUES</h3>
 <h4>Obtenez des cils longs et volumineux avec nos extensions de cils classiques. Nos techniciennes appliqueront soigneusement des extensions individuelles pour un regard naturellement magnifique qui dure des semaines.
 </h4>
 
 <p>2 200 DZD</p>
-<h3>EXTENSIONS DE CILS VOLUME RUSSE</h3>
+<h3 class="prices-h3">EXTENSIONS DE CILS VOLUME RUSSE</h3>
 <h4>Donnez à vos cils un volume incroyable avec nos extensions de cils volume russe. Notre technique avancée crée des bouquets de cils légers et aériens pour un regard spectaculaire et glamour.
 </h4>
 
 <p>2 800 DZD</p>
-<h3>RETOUCHE D'EXTENSIONS DE CILS</h3>
+<h3 class="prices-h3">RETOUCHE D'EXTENSIONS DE CILS</h3>
 <h4>Maintenez votre look impeccable avec notre service de retouche d'extensions de cils. Nos techniciennes remplaceront les cils perdus pour que vos extensions restent pleines et volumineuses entre chaque rendez-vous.
 </h4>
 
 <p>1 200 DZD</p>
-<h3>PERMANENTE DE CILS</h3>
+<h3 class="prices-h3">PERMANENTE DE CILS</h3>
 <h4>Obtenez des cils recourbés et pleins avec notre service de permanente de cils. Nos techniciennes utiliseront des solutions douces pour recourber vos cils naturels, leur donnant une belle courbure qui dure des semaines.
 </h4>
 

@@ -813,4 +813,16 @@ footer h3{
     .logo{
         width: 70px;
     }
+    .prices h3{
+        text-align: left;
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+    .prices p{
+        font-size: 0.9rem;
+        padding-top: 10%;
+    }
+    .prices h4{
+        
+    }
 }
