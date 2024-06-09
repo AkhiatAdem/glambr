@@ -762,6 +762,11 @@ footer h3{
     }
     .contact-info{
         width: 100vw;
+        margin-top: 30%;
+    }
+    .contact-info div p{
+        font-weight: 500;
+        font-size: 1.2rem;
     }
     .form{
         width: 100vw;
@@ -805,7 +810,7 @@ footer h3{
         transform: translateX(-250%);
     }
     .contact-info div h3{
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     .contacts-info h2{
         font-size: 3rem;
@@ -822,7 +827,5 @@ footer h3{
         font-size: 0.9rem;
         padding-top: 10%;
     }
-    .prices h4{
-        
-    }
+    
 }
