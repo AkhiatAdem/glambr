@@ -289,3 +289,17 @@ showmenu.addEventListener("click",()=>{
     isclicked = !isclicked;
 })
 
+//animation
+const observer = new IntersectionObserver((entries)=>{
+    entries.forEach((entry)=>{
+       if(entry.isIntersecting){
+        entry.target.classList.add('show');
+       }
+    });
+})
+const hidden = document.querySelectorAll(".hidden");
+const hiddenLeft = document.querySelectorAll("hidden-left");
+
+hidden.forEach((el) => observer.observe(el));
+hiddenLeft.forEach((el) => observer.observe(el));
+
