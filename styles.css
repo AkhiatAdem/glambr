@@ -662,6 +662,8 @@ footer h3{
     }
     main h2{
         font-size: 0.8rem;
+        text-align: center;
+        
     }
     .apointment{
         display: flex;
@@ -685,6 +687,7 @@ footer h3{
     }
     .offers h1{
         font-size: 2rem;
+        margin-top: 7%;
     }
     .offers h3{
         font-size: 0.9rem;
@@ -748,7 +751,7 @@ footer h3{
     .pricng-offers{
         display: flex;
         flex-direction: column;
-        height: 20vh;
+        height: 35vh;
     }
     .why-us{
         display: flex;
@@ -834,6 +837,9 @@ footer h3{
     .prices p{
         font-size: 0.9rem;
         padding-top: 10%;
+    }
+    .contacts-div{
+        padding-top: 20%;
     }
     
 }
