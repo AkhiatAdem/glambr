@@ -103,6 +103,7 @@ main hr{
 }
 main h2{
     font-weight: 500;
+    font-size: 1.3rem;
     text-shadow: 1px 1px 10px #252525;
 }
 main h2:last-of-type{
@@ -224,6 +225,11 @@ main h2:last-of-type{
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
+    width: auto;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .offer-img:hover >  .offer-opacity-background{
     opacity: 1;
